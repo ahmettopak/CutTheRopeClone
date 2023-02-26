@@ -709,7 +709,7 @@ MonoBehaviour:
   hook: {fileID: 210343279}
   linkPrefab: {fileID: 1964111839697932, guid: 2fccb692617ee7847bba1926624276de, type: 3}
   weigth: {fileID: 188171089}
-  links: 13
+  links: 20
 --- !u!50 &2027524278
 Rigidbody2D:
   serializedVersion: 4
